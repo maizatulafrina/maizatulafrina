@@ -1,7 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/lVc_0q7vq80AAAAM/toast-bread.gif" width="200"/>
+</div>
 
-<!--
-**maizatulafrina/maizatulafrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Maizatul Afrina</h1>
+<h1 align="center">Hi 👋, I'm Maizatul Afrina Safiah</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maizatulafrina" alt="maizatulafrina" /></a> </p>
 
 - 📫 How to reach me **afrinasafiah@gmail.com**
